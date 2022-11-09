@@ -1,5 +1,5 @@
 {
-  "name": "docker-node-build",
+  "name": "node-version-docker-build",
   "version": "0.0.0",
   "main": "index.js",
   "type": "module",
