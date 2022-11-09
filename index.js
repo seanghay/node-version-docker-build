@@ -13,7 +13,7 @@ app.use(express.urlencoded({ extended: false }));
 
 app.get('/', (req, res) => {
   res.json({
-    msg: "Hello, world",
+    msg: "Hello, world. Changed!",
     env: process.env
   });
 })
